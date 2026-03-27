@@ -1,15 +1,15 @@
 
       <svg
         width="287"
-        height="95"
-        viewBox="0 0 287 95"
+        height="170"
+        viewBox="0 0 287 170"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
         <title id="titleId">Nimish Jain's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Commits  : 1790</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 1791, Total PRs: 3, Total Issues: 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 215.50215120286225;
+        stroke-dashoffset: 215.49375815167454;
       }
     }
   
@@ -141,6 +141,17 @@
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
       
+      <text class="stat  bold"  y="12.5">Total Stars Earned:</text>
+      <text
+        class="stat  bold"
+        x="199.01"
+        y="12.5"
+        data-testid="stars"
+      >0</text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
+      
       <text class="stat  bold"  y="12.5">Total Commits:</text>
       <text
         class="stat  bold"
@@ -148,6 +159,28 @@
         y="12.5"
         data-testid="commits"
       >1.8k</text>
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
+      
+      <text class="stat  bold"  y="12.5">Total PRs:</text>
+      <text
+        class="stat  bold"
+        x="199.01"
+        y="12.5"
+        data-testid="prs"
+      >3</text>
+    </g>
+  </g><g transform="translate(0, 75)">
+    <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
+      
+      <text class="stat  bold"  y="12.5">Total Issues:</text>
+      <text
+        class="stat  bold"
+        x="199.01"
+        y="12.5"
+        data-testid="issues"
+      >0</text>
     </g>
   </g>
     </svg>
