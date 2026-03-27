@@ -55,6 +55,7 @@ Built as an MVP focused on making backend workflows easier for non-technical use
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NIMISH-25&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=9CA3AF" width="440" alt="Nimish Jain GitHub stats"/>
 </p>
+
 ---
 
 ## 📌 What I Like Building
